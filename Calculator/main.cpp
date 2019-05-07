@@ -21,7 +21,7 @@ int main()
 {
     float a,b;
     char op;
-   
+   cout<<"Welcome to Yuan's Calculator \n";  // ANG CRINGE POTEK
    cout<<"Enter a two numbers: ";
    cin>>a>>b;
    cout<<"\n Enter Operation : ";
